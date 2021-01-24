@@ -1,0 +1,11 @@
+Änderungen https://radwegplanung-muenchen.de
+21.01.2021:
++  Layer Flächennutzungsplan in der Gruppe 'Grenzen' eingefügt (Wunsch Bernhard Dufter)
++- Layer Ampeln in die Gruppe 'Barrieren' (Untergruppe von 'Grenzen') eingefügt
++  Layer Poller in die Gruppe 'Barrieren' (Untergruppe von 'Grenzen') eingefügt (Wunsch Andreas Schön)
++  Layer Umlaufsperren in die Gruppe 'Barrieren' (Untergruppe von 'Grenzen') eingefügt (Wunsch Andreas Schön)
+
+24.01.2021:
++  Layergruppe PopUpBikeLanes April 2021 hinzugefügt (Wunsch Andreas Schön)
++- Farbe Layer RadlVorrangNetz Phase 1 geändert in #6699cc (blau)
++- Farbe Layer RadlVorrangNetz Phase 2 geändert in #f34bdc (pink)
